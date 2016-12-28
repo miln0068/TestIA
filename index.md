@@ -1,8 +1,9 @@
 ---
 title: Test site for pensions e-tool information architecture
 keywords: sample homepage
-tags: [getting_started]
-sidebar: mydoc_sidebar
+tags:
+  - getting_started
+sidebar: home_sidebar
 permalink: index.html
 summary: Test layout and navigation.
 ---
