@@ -24,9 +24,9 @@ topnav_dropdowns:
          # external_url: http://idratherbewriting.com/category-jekyll/
     - title: Start Here
       folderitems:
-        - title: Tombstone
-          url: /mydoc_introduction.html
         - title: Applications
+          url: /mydoc_introduction.html
+        - title: Tombstone
           url: /p1_landing_page.html
         - title: Supporting Documents
           url: /p2_landing_page.html
