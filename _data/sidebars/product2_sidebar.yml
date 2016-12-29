@@ -27,7 +27,7 @@ entries:
       url: /p2_landing_page.html
       output: web
 
-  - title: Simple Workflow
+  - title: Home Address
     output: web, pdf
     folderitems:
 
@@ -51,7 +51,7 @@ entries:
       url: /p2_sample5.html
       output: web, pdf
 
-  - title: Complex Workflow
+  - title: Mailing Address
     output: web, pdf
     folderitems:
 
