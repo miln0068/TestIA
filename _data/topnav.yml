@@ -24,23 +24,23 @@ topnav_dropdowns:
          # external_url: http://idratherbewriting.com/category-jekyll/
     - title: Client Data (Tombstone)
       folderitems:
-        - title: Applications
+        - title: Client Search
           url: /mydoc_introduction.html
-        - title: Tombstone
+        - title: Personal Data
           url: /p1_landing_page.html
-        - title: Supporting Documents
+        - title: Address
           url: /p2_landing_page.html
         - title: Further Results
     - title: Applications
       folderitems:
-        - title: Applications
+        - title: Personal Data
           url: /mydoc_introduction.html
         - title: Tombstone
           url: /p1_landing_page.html
         - title: Supporting Documents
           url: /p2_landing_page.html
         - title: Further Results
-    - title: Start Here
+    - title: Documents
       folderitems:
         - title: Documents
           url: /mydoc_introduction.html
@@ -49,7 +49,7 @@ topnav_dropdowns:
         - title: Supporting Documents
           url: /p2_landing_page.html
         - title: Further Results
-    - title: Start Here
+    - title: Further
       folderitems:
         - title: Further
           url: /mydoc_introduction.html
