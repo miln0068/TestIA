@@ -31,24 +31,12 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Sample 1
+    - title: Review Home Address
       url: /p2_sample1.html
       output: web, pdf
 
-    - title: Sample 2
+    - title: Modify Home Address
       url: /p2_sample2.html
-      output: web, pdf
-
-    - title: Sample 3
-      url: /p2_sample3.html
-      output: web, pdf
-
-    - title: Sample 4
-      url: /p2_sample4.html
-      output: web, pdf
-
-    - title: Sample 5
-      url: /p2_sample5.html
       output: web, pdf
 
   - title: Mailing Address
