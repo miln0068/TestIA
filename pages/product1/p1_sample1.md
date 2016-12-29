@@ -29,4 +29,3 @@ To modify home address, do the following:
 2. Select that  
 3. Enter the next thing  
 4. Click **Save**  
-{% include links.html %}
