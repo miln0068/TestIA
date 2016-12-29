@@ -1,5 +1,5 @@
 ---
-title: Sample 2 Topic
+title: Modify Home Address
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: product2_sidebar
