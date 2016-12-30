@@ -1,6 +1,6 @@
 ---
 title: First-click Test  
-permalink: chalkmark.html  
+permalink: firstclick.html  
 ---
 <h2>Chalkmark</h2>  
 [Test link](https://1ylk1g7g.optimalworkshop.com/chalkmark/i5s261wd/)  
