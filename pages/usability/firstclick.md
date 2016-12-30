@@ -12,3 +12,8 @@ permalink: firstclick.html
 <h2>First-click Results</h2>   
 [Results link](https://www.optimalworkshop.com/chalkmark/1ylk1g7g/i5s261wd/shared-results/)   
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
