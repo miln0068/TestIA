@@ -7,5 +7,10 @@ permalink: template-test.html
 tags:
   - news
 keywords: liquid templating yaml  
+content:   
+  - background  
+  - procedure  
+    - 1. Step one  
+    - 2. Step two  
 ---  
-{% include background.md %}  
+{{ page:content }}  
