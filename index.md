@@ -3,12 +3,11 @@ title: Test site for pensions e-tool information architecture
 keywords: sample homepage
 tags:
   - getting_started
-sidebar: mydoc_sidebar
 permalink: index.html
-summary: Test layout and navigation.
+summary: This a basic prototype to test layout and navigation for the pensions e-tool. 
 ---
 
-## Build the Theme
+<!---## Build the Theme
 
 Follow these instructions to build the theme.
 
@@ -323,4 +322,4 @@ If you want to use an automated system for managing links, see [Automated Links]
 
 The content here is just a getting started guide only. For other details in working with the theme, see the various sections in the sidebar.
 
-{% include links.html %}
+{% include links.html %}-->
