@@ -4,6 +4,7 @@ keywords: sample
 summary: "This is just a sample topic..."
 permalink: p1_sample1.html
 folder: product1
+tags: metadata
 ---
 
 ## Overview  
