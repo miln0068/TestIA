@@ -1,6 +1,6 @@
 ---
 title: Card Sort
-permalink: \cardsort.md
+permalink: \cardsort.html
 ---
 #Card Sort  
 #{{ page:title }}  
