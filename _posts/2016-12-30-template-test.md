@@ -10,3 +10,4 @@ keywords: liquid templating yaml
 custom: test
 ---  
  {{ page:custom }}  
+{% include background.html %}  
