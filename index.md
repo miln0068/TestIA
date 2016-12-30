@@ -10,7 +10,7 @@ If you have already done the tests that I sent you, please check the results thr
 ###Chalkmark  
 [This link](https://www.optimalworkshop.com/chalkmark/1ylk1g7g/i5s261wd/shared-results/)  
 ###Treetest  
-[This link]([This link](https://www.optimalworkshop.com/chalkmark/1ylk1g7g/i5s261wd/shared-results/)    
+[This link](https://www.optimalworkshop.com/chalkmark/1ylk1g7g/i5s261wd/shared-results/)    
 
 <!---## Build the Theme
 
