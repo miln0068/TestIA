@@ -6,6 +6,7 @@ categories:
 permalink: welcome-to-the-prototype.html
 tags:
   - news
+keywords: liquid templating yaml
 ---
 
 
