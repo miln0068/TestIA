@@ -1,5 +1,5 @@
 ---
 title: Background
-permalink: \background.html
+permalink: \background.md  
 ---
-## This is a test  
+## This is a test   
