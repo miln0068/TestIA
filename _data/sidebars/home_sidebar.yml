@@ -26,7 +26,7 @@ entries:
     - title: Card Sort
       url: /cardsort.html
       output: web
-    - title: Chalkmark  
+    - title: First Click  
       url: /firstclick.html  
       output: web  
     - title: Tree Test  
