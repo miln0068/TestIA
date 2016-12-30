@@ -23,7 +23,8 @@ entries:
   - title: Usability
     output: web
     folderitems:  
-    - title: Card Sort  
+    - title: Card Sort
+      url: /cardsort.html
     - title: Chalkmark  
     - title: Tree Test  
     
