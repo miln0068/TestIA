@@ -10,7 +10,7 @@ search: exclude
 {
 "title": "{{ page.title | escape }}",
 "tags": "{{ page.tags }}",
-"keywords": "{{page.keywords}}",
+"keywords": "{{page.keywords | escape }}",
 "url": "{{ page.url | remove: "/"}}",
 "summary": "{{page.summary | strip }}"
 }
@@ -23,7 +23,7 @@ search: exclude
 {
 "title": "{{ post.title | escape }}",
 "tags": "{{ post.tags }}",
-"keywords": "{{post.keywords}}",
+"keywords": "{{post.keywords | escape }}",
 "url": "{{ post.url }}",
 "summary": "{{post.summary | strip }}"
 }
