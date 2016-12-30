@@ -1,6 +1,8 @@
 ---
 title: First-click Test  
-permalink: firstclick.md  
+permalink: firstclick.html 
+simple_map: true
+map_name: usermap
 ---
 <h2>Introduction</h2>  
 <p>The purpose of this test is to validate the information architecture as it might be displayed in a user interface.</p>
