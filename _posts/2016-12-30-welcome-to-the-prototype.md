@@ -7,6 +7,7 @@ permalink: welcome-to-the-prototype.html
 tags:
   - news
 keywords: liquid templating yaml
+procedures: testing  
 ---
 
 
@@ -20,6 +21,8 @@ Date is: {{ page:date }}
 Keywords are: {{ page:keywords }}  
 
 Tags are: {{ page:tags }}  
+
+Procedures are: {{ page:procedures }}
 
 Content is: {{ page:content }}
 
