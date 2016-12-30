@@ -7,10 +7,10 @@ permalink: template-test.html
 tags:
   - news
 keywords: liquid templating yaml  
-content:   
-  - background  
-  - procedure  
-    - 1. Step one  
-    - 2. Step two  
+procedure1:  
+  - 1. Step one  
+  - 2. Step two  
+  - 3. Step three
 ---  
-{{ page:content }}  
+  
+{{ page:procedure1 }}  
