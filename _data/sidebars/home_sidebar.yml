@@ -17,6 +17,7 @@ entries:
     folderitems:
     - title: Tags
       url: 
+      output: web
  
   - title: Usability
     url: 
