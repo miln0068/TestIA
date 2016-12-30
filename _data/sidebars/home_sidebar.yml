@@ -4,7 +4,7 @@ entries:
 - title: Information Architecture
   levels: two
   folders:
-  output: web
+ 
 
   - title: Content Strategy 
     output: web
