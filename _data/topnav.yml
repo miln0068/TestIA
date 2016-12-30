@@ -51,7 +51,7 @@ topnav_dropdowns:
         - title: Further Results
     - title: Further
       folderitems:
-        - title: Further
+        - title: Monetary
           url: /mydoc_introduction.html
         - title: Tombstone
           url: /p1_landing_page.html
