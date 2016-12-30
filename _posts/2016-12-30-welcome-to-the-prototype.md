@@ -9,6 +9,6 @@ tags:
 ---
 
 
-Welcome to the e-tools prototype. The purpose of this tool is to test ideas about various aspects of the information architecture including content strategy, metadata, and usability testing. Feel free to provide feedback through the tab at the top of the Home page.
+Welcome to the e-tools prototype. The purpose of this tool is to test ideas about various aspects of the information architecture including content strategy, metadata, and usability testing. Feel free to provide feedback through the tab at the top of the **Home** page. Also subscribe to the RSS feed to stay up to date with any changes.
 
 <!---{% include links.html %}-->
