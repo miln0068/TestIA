@@ -26,8 +26,10 @@ entries:
     - title: Card Sort
       url: /cardsort.html
       output: web
-    - title: Chalkmark 
+    - title: Chalkmark  
+      url: /chalkmark.html  
       output: web  
     - title: Tree Test  
+      url: /treetest.html  
       output: web  
     
