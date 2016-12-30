@@ -25,6 +25,9 @@ entries:
     folderitems:  
     - title: Card Sort
       url: /cardsort.html
-    - title: Chalkmark  
+      output: web
+    - title: Chalkmark 
+      output: web  
     - title: Tree Test  
+      output: web  
     
