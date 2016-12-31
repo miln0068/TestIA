@@ -3,9 +3,9 @@ title: "Usability"
 tagName: usability
 search: exclude
 permalink: tag_usability.html
-sidebar: mydoc_sidebar
+sidebar: false
 folder: tags
 ---
 {% include taglogic.html %}
 
-{% include links.html %}
+<!---{% include links.html %}-->
