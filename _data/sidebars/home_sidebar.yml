@@ -19,6 +19,9 @@ entries:
     - title: Tags
       url: /tags.html
       output: web
+    - title: Links  
+      url: /links.html  
+      output: web  
  
   - title: Usability
     output: web
