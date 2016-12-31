@@ -5,6 +5,8 @@ summary: "This is just a sample topic..."
 sidebar: product1_sidebar
 permalink: p1_sample4.html
 folder: product1
+tags: 
+  - client_data
 ---
 
 ## Add Home Address
