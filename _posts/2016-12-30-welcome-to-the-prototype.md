@@ -8,6 +8,7 @@ tags:
   - news
 keywords: liquid templating yaml   
 procedures: testing  
+comments: true
 ---
 
 
