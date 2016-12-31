@@ -3,6 +3,7 @@ title: First-click Test
 permalink: firstclick.html 
 tags: usability
 summary: Information about first-click testing for usability.
+keywords: usability
 ---
 <h2>Introduction</h2>  
 <p>The purpose of this test is to validate the information architecture as it might be displayed in a user interface.</p>
