@@ -5,7 +5,7 @@ permalink: links.html
 ## Introduction   
 Another method to navigate through related pages is through links.  
 Here are several links to related usability content pages:  
-[Icon][treetest]  
-[Icon][firstclick]  
-[Icon][cardsort]  
+[Icon][home_treetest]  
+[Icon][home_firstclick]  
+[Icon][home_cardsort]  
 {% include links.html %}  
