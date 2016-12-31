@@ -4,15 +4,7 @@ entries:
 - title: Information Architecture
   levels: two
   folders:
- 
 
-  - title: Content Strategy 
-    output: web
-    folderitems:
-    - title: What is a Task?
-      url: 
-      output: web
-      
   - title: Metadata
     output: web
     folderitems:
@@ -38,4 +30,10 @@ entries:
     - title: Tree Test  
       url: /treetest.html  
       output: web  
-    
+      
+  - title: Content Strategy 
+    output: web
+    folderitems:
+    - title: What is a Task?
+      url: 
+      output: web
