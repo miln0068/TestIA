@@ -12,3 +12,7 @@ allowed-tags:
   - mobile
   - metadata
   - prototype
+  - client_data
+  - applications
+  - documents
+  - financial
