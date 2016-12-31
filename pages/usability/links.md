@@ -8,3 +8,4 @@ Here are several links to related usability content pages:
 [Icon][treetest]  
 [Icon][firstclick]  
 [Icon][cardsort]  
+{% include links %}  
