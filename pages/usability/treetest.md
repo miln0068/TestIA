@@ -3,6 +3,7 @@ title: Tree Test
 permalink: treetest.html  
 tags: usability
 summary: Information about tree testing for usability.
+keywords: usability
 ---
 
 <h2>Treejack</h2>   
