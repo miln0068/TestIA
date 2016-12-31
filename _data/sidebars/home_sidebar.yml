@@ -21,6 +21,9 @@ entries:
       output: web
     - title: Links  
       url: /links.html  
+      output: web 
+    - title: Keywords
+      url: /keyword.html  
       output: web  
  
   - title: Usability
