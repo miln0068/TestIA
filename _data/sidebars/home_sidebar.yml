@@ -22,7 +22,7 @@ entries:
     - title: Links  
       url: /links.html  
       output: web 
-    - title: Keywords
+    - title: Search by Keywords
       url: /keywords.html  
       output: web  
  
