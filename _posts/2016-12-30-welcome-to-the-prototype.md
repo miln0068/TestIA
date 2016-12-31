@@ -26,6 +26,6 @@ Tags are: {{ page:tags }}
 Procedures are: {{ page:procedures }}
 
 Content is: {{ page:content }}
-{% include disqus.html }
+<!---{% include disqus.html }
 
 
