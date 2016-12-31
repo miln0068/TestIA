@@ -23,7 +23,7 @@ entries:
       url: /links.html  
       output: web 
     - title: Keywords
-      url: /keyword.html  
+      url: /keywords.html  
       output: web  
  
   - title: Usability
