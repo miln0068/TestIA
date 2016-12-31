@@ -3,7 +3,8 @@ title: Test site for pensions e-tool information architecture
 keywords: sample homepage landing prototype navigation
 tags:
 permalink: index.html
-summary: This a basic prototype to test layout and navigation for the pensions e-tool.   
+summary: This a basic prototype to test layout and navigation for the pensions e-tool.
+comments: true
 ---
 Welcome to the prototype. I have created this site to test ideas about content strategy, navigation, and information architecture.   
 To begin look under the Usability tab on the left side of the screen. You will see three headings: Card Sorting, First-click Testing, and Tree Testing. On each page you will find instructions and links to both the test and the test results. My hope is that you can play with this site and that it will spark ideas and provoke positive discussions.  
