@@ -1,5 +1,6 @@
 ---
-published: false
+title: Authoring with Prose
+permalink: authoring-with-prose.html
 ---
 
 ## Authoring with Prose  
