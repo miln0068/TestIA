@@ -3,7 +3,7 @@ title: Test site for pensions e-tool information architecture
 keywords: sample homepage landing prototype navigation
 tags:
 permalink: index.html
-summary: This a basic prototype to test layout and navigation for the pensions e-tool.
+summary:
 comments: true
 ---
 Welcome to the prototype. I have created this site to test ideas about content strategy, navigation, and information architecture.   
