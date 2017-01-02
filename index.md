@@ -6,6 +6,13 @@ permalink: index.html
 summary:
 comments: true
 ---
-Welcome to the prototype. I have created this site to test ideas about content strategy, navigation, and information architecture.   
-To begin look under the Usability tab on the left side of the screen. You will see three headings: Card Sorting, First-click Testing, and Tree Testing. On each page you will find instructions and links to both the test and the test results. My hope is that you can play with this site and that it will spark ideas and provoke positive discussions.  
-Please provide feedback through the test as well as through the email link in the Feedback tab at the top of the page.  
+## Welcome to the Prototype     
+
+I have created this site to test ideas about various aspects of information architecture including metadata, usability, and content strategy.      
+My goal was to provide an environment to play, design, test, and validate ideas as well to provide a more tangible context for concepts such as metadata and UX that are not familiar to everyone.  
+My hope is that this site will provoke productive discussion about these ideas so please provide feedback. There are several ways to give feedback:   
+
+- at the top of the page, there is a tab labelled **Feedback** that takes you to an email link  
+- at the bottom of the page there is a space for comments  
+- under the **Usability** tab in the menu on the left, there are sevral usability tests that have space for comments  
+
