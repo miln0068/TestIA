@@ -1,4 +1,6 @@
 --- 
 title: Personal Data 
-permalink: personal_data.html  
+permalink: client_data_personal_data.html  
 ---
+
+## Personal Data  
