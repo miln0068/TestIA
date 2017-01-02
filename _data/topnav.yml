@@ -25,19 +25,19 @@ topnav_dropdowns:
     - title: Client Data 
       folderitems:
         - title: Client Search
-          url: /clientdata_client_search.html
+          url: /client_data_client_search.html
         - title: Existing File
-          url: /clientdata_existing_file.html
+          url: /client_data_existing_file.html
         - title: Personal Data
-          url: /clientdata_personal_data.html
+          url: /client_data_personal_data.html
         - title: Address
-          url: /clientdata_address.html
+          url: /client_data_address.html
         - title: Telephone
-          url: /clientdata_telephone.html
+          url: /client_data_telephone.html
         - title: Direct Deposit
-          url: /clientdata_direct_deposit.html
+          url: /client_data_direct_deposit.html
         - title: Warnings and Messages
-          url: /clientdata_warnings_and_messages.html
+          url: /client_data_warnings_and_messages.html
         
     - title: Documents 
       folderitems:
