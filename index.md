@@ -19,6 +19,8 @@ Along the top of the page you will see six tabs labelled **News**, **Client Data
 
 Begin by exploring the menu on the left. In this menu you will find some first ideas about how content can be structured in a web-based information environment. This will include ideas about using metadata to facilitate navigation and searching. There are also sections with links to usability tests as well as the results. You can do these tests and then look at the results to see if they confirm your ideas.  
 
+## Feedback  
+
 My hope is that this site will provoke productive discussion about these ideas so please provide feedback. There are several ways to give feedback:   
 
 - at the top of the page, there is a tab labelled **Feedback** that takes you to an email link  
