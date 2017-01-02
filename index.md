@@ -1,5 +1,5 @@
 ---
-title: Test site for pensions e-tool information architecture
+title: Pensions E-tool Prototype
 keywords: sample homepage landing prototype navigation
 tags:
 permalink: index.html
