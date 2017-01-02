@@ -32,6 +32,7 @@ topnav_dropdowns:
           url: /client_data_personal_data.html
         - title: Address
           url: /client_data_address.html
+          output: web
         - title: Telephone
           url: /client_data_telephone.html
         - title: Direct Deposit
