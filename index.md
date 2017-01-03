@@ -13,7 +13,7 @@ My goal was to provide an environment to play with, design, test, and validate i
 
 ## Overview  
 
-Along the top of the page you will see six tabs labelled **News**, **Client Data**, **Documents**, **Applications**, and **Financial**. This is where the test contents are going to be. Along the left side you will see a menu with (so far) three items: **Metadata**, **Usability**, and **Content Strategy**. This is where you will information about the site and information architecture.   
+Along the top of the page you will see six tabs labelled **News**, **Client Data**, **Documents**, **Applications**, **Financial**, and **Feedback**. This is where the test contents are going to be. Along the left side you will see a menu with (so far) three items: **Metadata**, **Usability**, and **Content Strategy**. This is where you will information about the site and information architecture.   
 
 ## First Steps  
 
