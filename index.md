@@ -9,7 +9,7 @@ comments: true
 ## Welcome to the Prototype     
 
 I have created this site to test ideas about various aspects of information architecture including metadata, usability, and content strategy.      
-My goal was to provide an environment to play with, design, test, and validate ideas as well to provide a more tangible context for concepts such as metadata and UX that are not familiar to everyone.  
+My goal was to provide an environment to play with, design, test, and validate ideas as well to provide a more tangible context for less familiar concepts such as metadata and UX. 
 
 ## Overview  
 
