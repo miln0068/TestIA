@@ -13,32 +13,48 @@ topnav_dropdowns:
    
     - title: CPP 
       folderitems:
-      -  title: New Applications
-      -  title: Benefit Adjustments
-      -  title: Overpayment/Underpayment
-      -  title: Appeals
+      - title: New Applications
+        url: \p1_landing_page.html
+      - title: Benefit Adjustments
+        url: \p1_landing_page.html
+      - title: Overpayment/Underpayment
+        url: \p1_landing_page.html
+      - title: Appeals
+        url: \p1_landing_page.html
         
         
     - title: OAS 
       folderitems:
-      -  title: New Applications
-      -  title: Benefit Adjustments
-      -  title: Overpayment/Underpayment
-      -  title: Appeals
+      - title: New Applications
+        url: \p1_landing_page.html
+      - title: Benefit Adjustments
+        url: \p1_landing_page.html
+      - title: Overpayment/Underpayment
+        url: \p1_landing_page.html
+      - title: Appeals
+        url: \p1_landing_page.html
        
     - title: CPP-D
       folderitems:
-      -  title: New Applications
-      -  title: Benefit Adjustments
-      -  title: Overpayment/Underpayment
-      -  title: Appeals
+      - title: New Applications
+        url: \p1_landing_page.html
+      - title: Benefit Adjustments
+        url: \p1_landing_page.html
+      - title: Overpayment/Underpayment
+        url: \p1_landing_page.html
+      - title: Appeals
+        url: \p1_landing_page.html
        
     - title: IO
       folderitems:
-      -  title: New Applications
-      -  title: Benefit Adjustments
-      -  title: Overpayment/Underpayment
-      -  title: Appeals
+      - title: New Applications
+        url: \p1_landing_page.html
+      - title: Benefit Adjustments
+        url: \p1_landing_page.html
+      - title: Overpayment/Underpayment
+        url: \p1_landing_page.html
+      - title: Appeals
+        url: \p1_landing_page.html
         
         
           
