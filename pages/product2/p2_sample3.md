@@ -8,6 +8,7 @@ simple_map: true
 map_name: usermap
 box_number: 3
 folder: product2
+breadcrumb: Action
 ---
 
 ## Sample Content
