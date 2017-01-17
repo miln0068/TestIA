@@ -29,6 +29,6 @@ My hope is that this site will provoke productive discussion about these ideas s
 
 ## Disclaimer  
 
-Neither this site nor its contents are intended to be an authoritative statement on any of these topics, but rather a jumping off point for testing and refining ideas about information design.  
+Neither this site nor its contents are intended to be an authoritative statement on any of these topics, but rather a jumping off point for testing and refining ideas about information design.-->  
 
 
