@@ -66,9 +66,9 @@ a[data-toggle="tooltip"] {
     background-color: #347DBE;
 }
 
-/*.btn-primary:hover,
+.btn-primary:hover,
 .btn-primary:focus,
-.btn-primary:active,*/
+.btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     background-color: #347DBE;
