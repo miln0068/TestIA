@@ -5,6 +5,7 @@ tags:
 permalink: index.html
 summary:
 comments: true
+breadcrumb: Home
 ---
 ## Welcome to the Prototype     
 
