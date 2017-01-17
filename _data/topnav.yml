@@ -22,7 +22,7 @@ topnav_dropdowns:
          # external_url: http://stackoverflow.com/questions/tagged/jekyll
         #- title: Jekyll on my blog
          # external_url: http://idratherbewriting.com/category-jekyll/
-    - title: Client Data 
+    - title: CPP 
       folderitems:
         - title: Client Search
           url: /client_data_client_search.html
@@ -39,7 +39,7 @@ topnav_dropdowns:
         - title: Warnings and Messages
           url: /client_data_warnings_and_messages.html
         
-    - title: Documents 
+    - title: OAS 
       folderitems:
         - title: Review
           #url: /mydoc_introduction.html
@@ -49,7 +49,7 @@ topnav_dropdowns:
         - title: Transfer
           #url: /p2_landing_page.html
         - title: Send for Translation
-    - title: Application
+    - title: CPP-D
       folderitems:
         - title: Applicant
           #url: /mydoc_introduction.html
@@ -58,7 +58,7 @@ topnav_dropdowns:
         #- title: Supporting Documents
           #url: /p2_landing_page.html
         #- title: Further Results
-    - title: Financial
+    - title: IO
       folderitems:
         - title: Recievables
         - title: Remission
