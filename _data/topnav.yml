@@ -15,24 +15,32 @@ topnav_dropdowns:
       folderitems:
       - title: New Applications
         url: \p1_landing_page.html
+        output: web
       - title: Benefit Adjustments
         url: \p1_landing_page.html
+        output: web
       - title: Overpayment/Underpayment
         url: \p1_landing_page.html
+        output: web
       - title: Appeals
         url: \p1_landing_page.html
+        output: web
         
         
     - title: OAS 
       folderitems:
       - title: New Applications
         url: \p1_landing_page.html
+        output: web
       - title: Benefit Adjustments
         url: \p1_landing_page.html
+        output: web
       - title: Overpayment/Underpayment
         url: \p1_landing_page.html
+        output: web
       - title: Appeals
         url: \p1_landing_page.html
+        output: web
        
     - title: CPP-D
       folderitems:
