@@ -2,11 +2,12 @@
 title: Pensions E-tool Prototype
 keywords: sample homepage landing prototype navigation
 tags:
+  -metadata
 permalink: index.html
 summary:
 comments: true
-breadcrumb: Home
 ---
+{{ include:tags }}
 ## Welcome to the Prototype     
 
 <!---I have created this site to test ideas about various aspects of information architecture including metadata, usability, and content strategy.      
