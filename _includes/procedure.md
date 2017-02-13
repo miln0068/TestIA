@@ -1,5 +1,7 @@
-Step 1 {% if page.audience == "SCBO" %}    
+{% if page.audience == "SCBO" %}    
 {% include delegation.md %}      
 {% elsif page.audience == "BAC" %}    
-Complete step 2  {% endif %}    
-Step 3    
+Complete alternate step  {% endif %}    
+Step 1  
+Step 2  
+Step 3  
