@@ -20,10 +20,10 @@ At the top of this page, you will see a tag called usability. That means this pa
 
 {% include procedure.html %}To bake a casserole:
 
-1. Step 1
-{% if page.audience == "SCBO" %}
-2. Check delegation of authority
-{% elsif page.audience == "BAC" %}
-3. Complete step 3
-{% endif %}
-4. Bake in oven for 45 min.
+1. Step 1 
+{% if page.audience == "SCBO" %}  
+2. Check delegation of authority  
+{% elsif page.audience == "BAC" %}  
+3. Complete step 3  
+{% endif %}  
+4. Step 4  
