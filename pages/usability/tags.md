@@ -17,13 +17,3 @@ audience: SCBO
 
 {% include procedure.md %}
 
-
-
-
-1. Step 1 
-{% if page.audience == "SCBO" %}  
-{% include delegation.md %}    
-{% elsif page.audience == "BAC" %}  
-2. Complete step 2  
-{% endif %}  
-3. Step 3  
