@@ -11,7 +11,7 @@ layout: none
         <div class="col-lg-12">
             <h2 class="page-header"></h2>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-7">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-6x">
@@ -26,7 +26,7 @@ layout: none
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-7">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-6x">
@@ -41,7 +41,7 @@ layout: none
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-7">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-6x">
@@ -56,7 +56,7 @@ layout: none
                 </div>
             </div>
         </div>
-        <div class="col-md-3 col-sm-6">
+        <div class="col-md-3 col-sm-7">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-6x">
