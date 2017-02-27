@@ -5,7 +5,6 @@ sidebar: false
 toc: false
 permalink: index.html
 folder: product1
-layout: 
 ---
 <div class="row">
         <div class="col-lg-12">
