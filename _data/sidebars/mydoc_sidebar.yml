@@ -13,6 +13,7 @@ entries:
        output: web
      - title: Trusteeship
        url: /trusteeship.html
+       output: web
    - title: Earnings and Contributions
      output: web
    - title: Client Correspondence
