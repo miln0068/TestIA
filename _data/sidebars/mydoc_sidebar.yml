@@ -5,13 +5,18 @@ entries:
   product: CPP Revised Benefits
   version: 
   folders:
-  
    - title: Third Party
+     output: web
    - title: Earnings and Contributions
+     output: web
    - title: Client Correspondence
+     output: web
    - title: Change of Address / Direct Deposit
+     output: web
    - title: Life Events
+     output: web
    - title: Fraud
+     output: web
 
 #  - title:
     output: pdf
