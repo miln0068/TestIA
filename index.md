@@ -23,7 +23,7 @@ layout: none
                 <div class="panel-body">
                     <h4>Canada Pension Plan</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="https://miln0068.github.io/TestIA/pages/third_party/power_of_attorney.html" class="btn btn-primary">Learn More</a>
+                    <a href="pages/third_party/power_of_attorney.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
