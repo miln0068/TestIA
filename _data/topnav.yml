@@ -15,7 +15,7 @@ topnav_dropdowns:
       folderitems:
       - title: Applications
       - title: Revised Benefits
-        folderitems
+        folderitems:
         - title: Third Party  
           url: third_party.html
           output: web
