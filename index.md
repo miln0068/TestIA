@@ -1,8 +1,9 @@
 ---
-title: Revised Benefits
+title: Pensions E-tool
 keywords: 
 tags: 
-sidebar: mydoc_sidebar
+sidebar: false
+topnav: false
 permalink: index.html
 summary: 
 ---
