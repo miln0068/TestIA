@@ -1,5 +1,5 @@
 ---
 title: Revised Benefits  
-permalink: third_party.html
+permalink: revised_benefits.html
 sidebar: home_sidebar
 ---
