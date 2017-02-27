@@ -12,61 +12,25 @@ topnav_dropdowns:
   folders:
     - title: CPP 
       folderitems:
-      - title: Test
-        url: tag_single_sourcing.html       
-      - title: R
-        url: tag_single_sourcing.html
-      - title: Retirement
-        folderitems:  
-        - title: Test
-          url: p1_landing_page.html
-        - title: Benefit Adjustments
-          url: p1_landing_page.html
-          output: web
-        - title: Overpayment/Underpayment
-          url: p1_landing_page.html
-          output: web
-        - title: Appeals
-          url: p1_landing_page.html
-          output: web
-        
+      - title: Applications
+      - title: Revised Benefits
+      - title: Reconsiderations
+      
         
     - title: OAS 
       folderitems:
       - title: New Applications
-        url: p1_landing_page.html
-        output: web
-      - title: Benefit Adjustments
-        url: p1_landing_page.html
-        output: web
-      - title: Overpayment/Underpayment
-        url: p1_landing_page.html
-        output: web
-      - title: Appeals
-        url: p1_landing_page.html
-        output: web
-       
+      - title: Revised Benefits
+      - title: Reconsiderations
+      
     - title: CPP-D
       folderitems:
       - title: New Applications
-        url: p1_landing_page.html
-      - title: Benefit Adjustments
-        url: p1_landing_page.html
-      - title: Overpayment/Underpayment
-        url: p1_landing_page.html
-      - title: Appeals
-        url: p1_landing_page.html
-       
-    - title: IO
-      folderitems:
-      - title: New Applications
-        url: p1_landing_page.html
-      - title: Benefit Adjustments
-        url: p1_landing_page.html
-      - title: Overpayment/Underpayment
-        url: p1_landing_page.html
-      - title: Appeals
-        url: p1_landing_page.html
+      - title: Automatic Reinstallment
+      - title: Revised Benefits
+      - title: Reconsiderations
+      
+   
         
         
           
