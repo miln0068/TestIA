@@ -50,7 +50,7 @@ layout: none
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Canada Pension Plan - Disability</h4>
+                    <h4>CPP-Disability</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
