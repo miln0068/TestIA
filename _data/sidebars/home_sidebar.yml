@@ -9,10 +9,10 @@ entries:
     output: web
     folderitems:
     - title: Trusteeship
-      url: /third_party.html
+      url: /trusteeship.html
       output: web
     - title: Power of Attorney  
-      url: /links.html  
+      url: /third_party.html  
       output: web 
     
  
