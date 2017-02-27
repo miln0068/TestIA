@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <head>
-    
     {% include head.html %}
-   <script>
+    <script>
         $(document).ready(function() {
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
@@ -33,7 +32,7 @@
 
         });
 
-    </script> 
+    </script>
     <script>
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
@@ -52,8 +51,8 @@
             );
     </script>
     {% endif %}
-    
 
+</head>
 <body>
 {% include topnav.html %}
 <!-- Page Content -->
@@ -64,14 +63,14 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
 
-         <!--- {% include sidebar.html %} -->
-     Content Column 
+          {% include sidebar.html %}
+    <!-- Content Column -->
     <div class="col-md-9">
         {{content}}
     </div>
-     /.row 
+    <!-- /.row -->
 </div>
-/.container 
+<!-- /.container -->
     </div>
 
 </body>
