@@ -14,6 +14,8 @@ topnav_dropdowns:
       folderitems:
       - title: Applications
       - title: Revised Benefits
+        url: third_party.html
+        output: web
       - title: Reconsiderations
       
         
