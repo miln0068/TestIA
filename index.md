@@ -3,7 +3,6 @@ title: Pensions E-tool
 keywords: 
 sidebar: false
 toc: false
-head: false
 permalink: index.html
 folder: product1
 layout: 
