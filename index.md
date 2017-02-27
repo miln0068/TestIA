@@ -5,6 +5,7 @@ sidebar: false
 toc: false
 sidenav: false
 permalink: index.html
+layout: none.html
 ---
 <div class="row">
         <div class="col-lg-12">
