@@ -9,6 +9,7 @@ topnav:
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
+  levels: two
   folders:
     - title: CPP 
       folderitems:
