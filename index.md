@@ -3,6 +3,7 @@ title:
 keywords: 
 sidebar: false
 toc: false
+sidenav: false
 permalink: index.html
 ---
 <div class="row">
