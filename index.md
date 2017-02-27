@@ -6,7 +6,7 @@ toc: false
 head: false
 permalink: index.html
 folder: product1
-layout: false
+layout: 
 ---
 <div class="row">
         <div class="col-lg-12">
