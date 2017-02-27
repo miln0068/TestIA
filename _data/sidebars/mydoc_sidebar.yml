@@ -7,6 +7,12 @@ entries:
   folders:
    - title: Third Party
      output: web
+     folderitems:
+     - title: Power of Attorney
+       url: /power_of_attorney.html
+       output: web
+     - title: Trusteeship
+       url: /trusteeship.html
    - title: Earnings and Contributions
      output: web
    - title: Client Correspondence
