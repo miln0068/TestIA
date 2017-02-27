@@ -316,7 +316,7 @@ footer {
 
 /* FAQ page */
 #accordion .panel-heading {
-    font-size: 12px;
+    font-size: 10px;
 }
 
 a.accordion-toggle, a.accordion-collapsed {
