@@ -2,14 +2,17 @@
 title: Pensions E-tool Prototype
 keywords: sample homepage landing prototype navigation
 tags:
-  - metadata
+sidebar: false
 permalink: index.html
 summary:
 comments: true
 ---
+
 {% include taglogic.html %}
 
-## Welcome to the Prototype     
+## Welcome to the Prototype   
+
+
 
 <!---I have created this site to test ideas about various aspects of information architecture including metadata, usability, and content strategy.      
 My goal was to provide an environment to play with, design, test, and validate ideas as well to provide a more tangible context for less familiar concepts such as metadata and UX. 
