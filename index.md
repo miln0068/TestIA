@@ -1,13 +1,9 @@
----
-title: Pensions E-tool
-keywords: 
-tags: 
-sidebar: false
-topnav: false
-toc: false
-permalink: index.html
-summary: 
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Pensions E-tool<title>
+</head>
+
 <body class="landing">
     <div class="landing-header">
      
@@ -59,7 +55,8 @@ summary:
   
 </ul>
 
-  
+</body>
+</html>
 
   
 
