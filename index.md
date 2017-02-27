@@ -1,7 +1,7 @@
 ---
 title: Revised Benefits
-keywords: sample homepage
-tags: [getting_started]
+keywords: 
+tags: 
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: 
