@@ -26,6 +26,6 @@ Valid proof of a POA contains each of the following elements (note that the cont
 
 
 ## Agent Instructions
-[INTERNAL LINK TO]Administering a Power of Attorney
+[Administering a Power of Attorney](administering.html)
 [LINK TO PDF]Forms
 [INTERNAL LINK TO] Policy
