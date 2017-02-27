@@ -16,7 +16,7 @@ folder: product1
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-CPP fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-CPP fa-stack-1x fa-inverse">CPP</i>
                     </span>
                 </div>
                 <div class="panel-body">
