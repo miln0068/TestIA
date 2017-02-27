@@ -4,11 +4,10 @@ keywords:
 sidebar: false
 toc: false
 permalink: index.html
-folder: product1
 ---
 <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Services Panels</h2>
+            <h2 class="page-header"></h2>
         </div>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
@@ -19,7 +18,7 @@ folder: product1
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service One</h4>
+                    <h4>Canada Pension Plan</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -34,7 +33,7 @@ folder: product1
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service Two</h4>
+                    <h4>Old Age Security</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -49,7 +48,7 @@ folder: product1
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service Three</h4>
+                    <h4>Canada Penison Plan - Disability</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
@@ -64,7 +63,7 @@ folder: product1
                     </span>
                 </div>
                 <div class="panel-body">
-                    <h4>Service Four</h4>
+                    <h4>International Operations</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                     <a href="#" class="btn btn-primary">Learn More</a>
                 </div>
