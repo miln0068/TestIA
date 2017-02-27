@@ -14,8 +14,8 @@ folder: product1
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary">CPP</i>
-                          <i class="fa fa-circle fa-stack-1x fa-inverse">CPP</i>
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-stack-1x fa-inverse">CPP</i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -29,8 +29,8 @@ folder: product1
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary">OAS</i>
-                          <i class="fa fa-circle fa-stack-1x fa-inverse">OAS</i>
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-stack-1x fa-inverse">OAS</i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -44,8 +44,8 @@ folder: product1
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary">CPP-D</i>
-                          <i class="fa fa-circle fa-stack-1x fa-inverse">CPP-D</i>
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-stack-1x fa-inverse">CPP-D</i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -59,8 +59,8 @@ folder: product1
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary">IO</i>
-                          <i class="fa fa-circle fa-stack-1x fa-inverse">IO</i>
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-stack-1x fa-inverse">IO</i>
                     </span>
                 </div>
                 <div class="panel-body">
