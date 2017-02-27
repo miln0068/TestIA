@@ -2,26 +2,16 @@
 title: Administering a Third Party Power of Attorney
 permalink: administering.html
 ---
-Administering a Power of Attorney <Action>
-<Purpose>
+
 This page provides processing tasks for administering a [LINK TO DEFINITION] power of attorney (POA) for Canada Pension Plan (CPP) and Old Age Security (OAS).
-<Contents>
-Maintenance: [COMMON TASKS REPEATED BETWEEN SCENARIOS]
-•	Finding a Client File in ITRDS
-•	Modifying a Payee
-•	Performing a Data Capture
-•	Reviewing Adjudication Details 
-Administering a Power of Attorney: [SPECIFIC TASKS FOR THE SCENARIO]
-•	Determining the Validity of a Power of Attorney
-•	Reviewing Power of Attorney Documents
-<Task 1>
-Finding a Client in ITRDS 
-<Purpose>
-Follow these procedures to find an existing client file in the IT Renewal Delivery System (ITRDS). 
-These procedures cover the following: <The following headings should be able to jump down the page to the section>
-•	Searching by SIN [LINK TO DEFINITIONS]
-•	Searching by Other Criteria
-<Agent Instructions>
+
+## Finding a Client in ITRDS   
+
+Follow these procedures to find an existing client file in the IT Renewal Delivery System (ITRDS).   
+These procedures cover the following:   
+•	Searching by SIN [LINK TO DEFINITIONS]  
+•	Searching by Other Criteria  
+Agent Instructions    
 Searching by Social Insurance Number (SIN)
 To search for an existing client file in ITRDS by SIN:
 1.	In the Identifier field, enter the client’s (SIN) 
