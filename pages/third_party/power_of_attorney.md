@@ -1,6 +1,6 @@
 ---
 title: Third Party - Power of Attorney  
-permalink: power_of-attorney.html
+permalink: power_of_attorney.html
 sidebars: home_sidebar
 ---
 
