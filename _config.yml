@@ -69,7 +69,7 @@ defaults:
       layout: "page"
       comments: true
       search: true
-     # sidebar: home_sidebar
+      sidebar: home_sidebar
   -
     scope:
       path: ""
@@ -93,7 +93,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-#- home_sidebar
+- home_sidebar
 #- mydoc_sidebar
 #- product1_sidebar
 #- product2_sidebar
