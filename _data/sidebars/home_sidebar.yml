@@ -1,39 +1,33 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Information Architecture
-  levels: two
+- title: Revised Benefits
+  levels: three
   folders:
 
-  - title: Metadata
+  - title: Third Party
     output: web
     folderitems:
-    - title: Tags
+    - title: Trusteeship
       url: /tags.html
       output: web
-    - title: Links  
+    - title: Power of Attorney  
       url: /links.html  
       output: web 
-    - title: Search by Keywords
-      url: /keywords.html  
-      output: web  
+    
  
-  - title: Usability
+  - title: Earnings and Contributions
     output: web
     folderitems:  
-    - title: Card Sort
-      url: /cardsort.html
-      output: web
-    - title: First Click  
-      url: /firstclick.html  
-      output: web  
-    - title: Tree Test  
-      url: /treetest.html  
-      output: web  
-      
-  - title: Content Strategy 
+    
+  - title: Client Correspondence 
     output: web
     folderitems:
-    - title: What is a Task?
-      url: 
-      output: web
+
+  - title: Change of Address/Direct Deposit
+    output: web
+    
+  - title: Life Events
+    output: web
+    
+  - title: Fraud
