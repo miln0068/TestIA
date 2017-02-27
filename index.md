@@ -14,7 +14,7 @@ layout: none
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
                           <i class="fa fa-stack-1x fa-inverse">CPP</i>
                     </span>
@@ -29,7 +29,7 @@ layout: none
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
                           <i class="fa fa-stack-1x fa-inverse">OAS</i>
                     </span>
@@ -44,9 +44,9 @@ layout: none
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-stack-1x fa-inverse">CPP-D</i>
+                          <i class="fa fa-stack-1x fa-inverse">D</i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -59,7 +59,7 @@ layout: none
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
                           <i class="fa fa-stack-1x fa-inverse">IO</i>
                     </span>
