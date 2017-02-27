@@ -6,7 +6,49 @@ sidebar: mydoc_sidebar
 permalink: index.html
 summary: 
 ---
-
+<ul class="topics">
+  
+    <li class="topic-ce">
+      <a href="/ce/README.html">
+        <div class="wrapper">
+          <div class="circle">CE</div>
+          <h2>GitLab Community Edition</h2>
+          <p>Browse user and administration documentation and guides for GitLab Community Edition.</p>
+        </div>
+      </a>
+    </li>
+  
+    <li class="topic-ee">
+      <a href="/ee/README.html">
+        <div class="wrapper">
+          <div class="circle">EE</div>
+          <h2>GitLab Enterprise Edition and GitLab.com</h2>
+          <p>Browse user and administration documentation and guides for GitLab Enterprise Edition and GitLab.com.</p>
+        </div>
+      </a>
+    </li>
+  
+    <li class="topic-omnibus">
+      <a href="/omnibus/README.html">
+        <div class="wrapper">
+          <div class="circle">OM</div>
+          <h2>Omnibus GitLab</h2>
+          <p>Browse installation, configuration, maintenance, and troubleshooting documentation for Omnibus GitLab.</p>
+        </div>
+      </a>
+    </li>
+  
+    <li class="topic-runner">
+      <a href="/runner/">
+        <div class="wrapper">
+          <div class="circle">RU</div>
+          <h2>GitLab Runner</h2>
+          <p>Browse installation, configuration, maintenance, and troubleshooting documentation for GitLab Runner.</p>
+        </div>
+      </a>
+    </li>
+  
+</ul>
 
 
 
