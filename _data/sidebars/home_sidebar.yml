@@ -32,3 +32,4 @@ entries:
   
     - title: Maintenance
       output: web
+      url: /maintenance.html
