@@ -1,6 +1,7 @@
 ---
 title: Administering a Third Party Power of Attorney
 permalink: administering.html
+toc: false
 ---
 
 This page provides processing tasks for administering a [LINK TO DEFINITION] power of attorney (POA) for Canada Pension Plan (CPP) and Old Age Security (OAS).
