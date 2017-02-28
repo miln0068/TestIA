@@ -29,4 +29,4 @@ Valid proof of a POA contains each of the following elements (note that the cont
 [Administering a Power of Attorney](administering.html)  
 [ISP 3505 Certificate of Incapacity](pdf/form1.pdf)   
 
-[INTERNAL LINK TO] Policy  
+[Third Party Policy](coming soon) 
