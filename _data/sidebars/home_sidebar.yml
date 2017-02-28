@@ -29,11 +29,12 @@ entries:
       output: web
     
     - title: Fraud  
+      output: web  
   
     - title: Maintenance
-      output: web  
+      output: web    
       folderitems:  
-      title: Maintenance
-      url: /maintenance.html  
-      output: web  
+      - title: Maintenance  
+        url: /maintenance.html   
+        output: web    
       
