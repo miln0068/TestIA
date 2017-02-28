@@ -2,9 +2,10 @@
 
 entries:
 - title: Revised Benefits
+  output: web
   levels: three
   folders:
-  output: web
+ 
 
   - title: Third Party
     output: web
