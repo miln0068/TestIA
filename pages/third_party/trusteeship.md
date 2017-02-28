@@ -1,7 +1,10 @@
 ---
 title: Trusteeship
 permalink: trusteeship.html
-keywords: trustee, trusteeship, third party
+keywords: 
+  - trustee
+  - trusteeship
+  - third party
 ---
 Third Party Administration – Trusteeship <Scenario>
 <Purpose>
