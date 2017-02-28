@@ -33,7 +33,8 @@ entries:
   
     - title: Maintenance
       output: web    
-      folderitems:  
+      folderitems: 
+      
       - title: Maintenance  
         url: /maintenance.html   
         output: web    
