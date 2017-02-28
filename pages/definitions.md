@@ -11,14 +11,18 @@ toc: false
 
 
 
-Client
-: {{site.data.definitions.client}}
+<dl class="dl-horizontal">
 
-Power of Attorney
-: {{site.data.defintions.power_of_attorney}}
+<dt id="client">Client</dt>
+<dd>{{site.data.defintions.client}}</dd>
 
-Third Party
-: {{site.data.definitions.third_party}}
+<dt id="power_of_attorney">Power of Attorney</dt>
+<dd>{{site.data.defintions.power_of_attorney}}</dd>
 
+<dt id="third_party">Third Party</dt>
+<dd>{{site.data.definitions.third_party}}</dd>
+
+
+</dl>
 
 
