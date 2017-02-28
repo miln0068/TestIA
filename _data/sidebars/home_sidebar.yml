@@ -1,38 +1,34 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
- - title: Revised Benefits
-   output: web
-   levels: three
-   folders:
- 
-
-  - title: Third Party
+  - title: Revised Benefits
     output: web
-    folderitems:
-    - title: Trusteeship
-      url: /trusteeship.html
+    levels: three
+    folders:
+    - title: Third Party
       output: web
-    - title: Power of Attorney  
-      url: /power_of_attorney.html  
-      output: web 
+      folderitems:
+      - title: Trusteeship
+        url: /trusteeship.html
+        output: web
+      - title: Power of Attorney  
+        url: /power_of_attorney.html  
+        output: web 
+    - title: Earnings and Contributions
+      output: web
+      folderitems:  
     
- 
-  - title: Earnings and Contributions
-    output: web
-    folderitems:  
-    
-  - title: Client Correspondence 
-    output: web
-    folderitems:
+    - title: Client Correspondence 
+      output: web
+      folderitems:
 
-  - title: Change of Address/Direct Deposit
-    output: web
+    - title: Change of Address/Direct Deposit
+      output: web
     
-  - title: Life Events
-    output: web
+    - title: Life Events
+      output: web
     
-  - title: Fraud  
+    - title: Fraud  
   
-  - title: Maintenance
-    output: web
+    - title: Maintenance
+      output: web
