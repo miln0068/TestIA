@@ -14,10 +14,10 @@ toc: false
 <dl class="dl-horizontal">
 
 <dt id="client">Client</dt>
-<dd>{{site.data.defintions.client}}</dd>
+<dd>{{site.data.definitions.client}}</dd>
 
 <dt id="power_of_attorney">Power of Attorney</dt>
-<dd>{{site.data.defintions.power_of_attorney}}</dd>
+<dd>{{site.data.definitions.power_of_attorney}}</dd>
 
 <dt id="third_party">Third Party</dt>
 <dd>{{site.data.definitions.third_party}}</dd>
