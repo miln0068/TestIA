@@ -3,19 +3,10 @@ title: Appointing a Trustee
 permalink: appointing.html
 toc: false
 ---
-Appointing a Trustee for Incapable Homeless or at Imminent Risk of Being Homeless Seniors <Action>
- <Purpose>
-This page provides processing tasks for administering a [LINK TO DEFINITION] power of attorney (POA) for Canada Pension Plan (CPP) and Old Age Security (OAS).
-<Contents>
-Maintenance: [COMMON TASKS REPEATED BETWEEN SCENARIOS]
-•	Finding a Client File in ITRDS
-•	Modifying a Payee
-•	Performing a Data Capture
-•	Reviewing Adjudication Details 
-Appointing a Trustee for Incapable Homeless or at Imminent Risk of Being Homeless Seniors: [SPECIFIC TASKS FOR THE SCENARIO]
-•	Identifying a Homeless Individual 
-•	Confirming the Age of a Homeless Individual 
-•	Evaluating the Living Situation of a Homeless Individual
+
+This page provides processing tasks for administering a [LINK TO DEFINITION] power of attorney (POA) for Canada Pension Plan (CPP) and Old Age Security (OAS).  
+
+
 <Task 1>
 Finding a Client in ITRDS 
 <Purpose>
