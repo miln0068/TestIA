@@ -8,12 +8,12 @@ entries:
     - title: Third Party
       output: web
       folderitems:
-      - title: Trusteeship
-        url: /trusteeship.html
-        output: web
       - title: Power of Attorney  
         url: /power_of_attorney.html  
         output: web 
+      - title: Trusteeship
+        url: /trusteeship.html
+        output: web
     - title: Earnings and Contributions
       output: web
       folderitems:  
