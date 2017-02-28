@@ -2,6 +2,7 @@
 title: Third Party - Power of Attorney  
 permalink: power_of_attorney.html
 sidebars: home_sidebar
+toc: false
 ---
 
 A [power of attorney (POA)](definitions.html) exists when an individual authorizes another person or agency to act on their behalf in specific situations.
@@ -25,6 +26,6 @@ Valid proof of a POA contains each of the following elements (note that the cont
 
 
 ## Agent Instructions
-[Administering a Power of Attorney](administering.html)
-[LINK TO PDF]Forms
-[INTERNAL LINK TO] Policy
+[Administering a Power of Attorney](administering.html)  
+[LINK TO PDF]Forms  
+[INTERNAL LINK TO] Policy  
