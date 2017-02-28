@@ -1,11 +1,11 @@
-## Finding a Client in ITRDS   
+# Finding a Client in ITRDS     
 
-Follow these procedures to find an existing client file in the IT Renewal Delivery System (ITRDS).   
-These procedures cover the following:   
-•	Searching by SIN [LINK TO DEFINITIONS]  
-•	Searching by Other Criteria  
-Agent Instructions    
-Searching by Social Insurance Number (SIN)
+Follow these procedures to find an existing client file in the IT Renewal Delivery System (ITRDS).       
+These procedures cover the following:      
+•	Searching by SIN [LINK TO DEFINITIONS]    
+•	Searching by Other Criteria     
+Agent Instructions       
+Searching by Social Insurance Number (SIN)  
 To search for an existing client file in ITRDS by SIN:
 1.	In the Identifier field, enter the client’s (SIN) 
 2.	Click Search
