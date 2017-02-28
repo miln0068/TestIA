@@ -4,7 +4,7 @@ permalink: power_of_attorney.html
 sidebars: home_sidebar
 ---
 
-A [LINK TO DEFINITION] power of attorney (POA) exists when an individual authorizes another person or agency to act on their behalf in specific situations.
+A [power of attorney (POA)](definitions.html) exists when an individual authorizes another person or agency to act on their behalf in specific situations.
 Powers of attorney usually cover two areas of decision-making: decisions about property (CPP & OAS benefits are considered property) and decisions about personal care.  
 
 ## General Provisions of a Power of Attorney  
