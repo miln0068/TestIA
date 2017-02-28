@@ -12,13 +12,13 @@ toc: false
 
 
 Client
-: {{site.data.glossary.client}}
+: {{site.data.definitions.client}}
 
 Power of Attorney
-: {{site.data.glossary.power_of_attorney}}
+: {{site.data.defintions.power_of_attorney}}
 
 Third Party
-: {{site.data.glossary.third_party}}
+: {{site.data.definitions.third_party}}
 
 
 
