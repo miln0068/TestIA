@@ -31,6 +31,9 @@ entries:
     - title: Fraud  
   
     - title: Maintenance
+      output: web  
+      folderitems:  
+      title: Maintenance
       url: /maintenance.html  
       output: web  
       
