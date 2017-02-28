@@ -31,5 +31,6 @@ entries:
     - title: Fraud  
   
     - title: Maintenance
-      output: web
-      url: /maintenance.html
+      url: /maintenance.html  
+      output: web  
+      
