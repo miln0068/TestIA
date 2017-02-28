@@ -1,5 +1,5 @@
 ---
-title: Pensions E-tool Prototype
+title: Canada Pension Plan - Revised Benefits  
 keywords: revised benefits
 tags: 
 sidebar: home_sidebar
