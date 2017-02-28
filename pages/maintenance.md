@@ -1,6 +1,7 @@
 ---
 title: CPP - Revised Benefits - Maintenance  
 permalink: maintenance.html
+toc: true
 ---
 
 {% include finding_a_client.md %}  
