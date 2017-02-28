@@ -1,6 +1,7 @@
 ---
 title: Appointing a Trustee
 permalink: appointing.html
+toc: false
 ---
 Appointing a Trustee for Incapable Homeless or at Imminent Risk of Being Homeless Seniors <Action>
  <Purpose>
