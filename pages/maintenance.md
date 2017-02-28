@@ -3,11 +3,11 @@ title: CPP - Revised Benefits - Maintenance
 permalink: maintenance.html
 ---
 
-{% include finding_a_client %}  
+{% include finding_a_client.md %}  
 
-{% include modifying_a_payee %}  
+{% include modifying_a_payee.md %}  
 
-{% include performing_a_data_capture %}  
+{% include performing_a_data_capture.md %}  
 
-{% include reviewing_adjudication_details %}  
+{% include reviewing_adjudication_details.md %}  
 
