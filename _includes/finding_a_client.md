@@ -1,4 +1,4 @@
-# Finding a Client       
+## Finding a Client       
 
 Follow these procedures to find an existing client file in the IT Renewal Delivery System (ITRDS).       
 These procedures cover the following:      
