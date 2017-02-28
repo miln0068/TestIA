@@ -30,7 +30,7 @@ entries:
     
     - title: Fraud  
   
-  - title: Maintenance
-    url: /maintenance.html  
-    output: web  
+    - title: Maintenance
+      url: /maintenance.html  
+      output: web  
       
