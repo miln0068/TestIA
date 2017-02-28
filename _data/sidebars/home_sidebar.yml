@@ -4,6 +4,7 @@ entries:
 - title: Revised Benefits
   levels: three
   folders:
+  output: web
 
   - title: Third Party
     output: web
@@ -30,4 +31,7 @@ entries:
   - title: Life Events
     output: web
     
-  - title: Fraud
+  - title: Fraud  
+  
+  - title: Maintenance
+    output: web
