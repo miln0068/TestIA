@@ -5,7 +5,7 @@ sidebars: home_sidebar
 toc: false
 ---
 
-A [power of attorney (POA)](definitions.html) (this is a link or <div title="power of attorney">The authority to act for another person in specified or all legal and financial matters.</div> hover text) <a title="hover text" ng-href="{{getUrl()}}"> download link
+A  (this is a link or <div title="power of attorney"></div> hover text) <a title="The authority to act for another person in specified or all legal and financial matters." ng-href="{{getUrl()}}"> download link [power of attorney (POA)](definitions.html)
 </a> exists when an individual authorizes another person or agency to act on their behalf in specific situations.
 Powers of attorney usually cover two areas of decision-making: decisions about property (CPP & OAS benefits are considered property) and decisions about personal care.  
 
