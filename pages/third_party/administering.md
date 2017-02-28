@@ -18,7 +18,7 @@ To determine the validity of a POA provided to Service Canada, the documents mus
 • be an original or certified true copy
 • be consistent with the client’s account information - contradictory statements raise doubt as to the documents validity. 
 
-###Agent Instructions  
+### Agent Instructions    
 
 Here are some examples and strategies on how to deal with them:
 Example: The department receives an application for OAS, along with a recently dated POA, and information exists that the client's affairs are being administered by the public trustee.   
