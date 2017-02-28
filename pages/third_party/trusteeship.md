@@ -5,6 +5,7 @@ keywords:
   - trustee
   - trusteeship
   - third party
+ search: true
 ---
 Third Party Administration – Trusteeship <Scenario>
 <Purpose>
