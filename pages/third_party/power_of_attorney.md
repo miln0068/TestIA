@@ -8,7 +8,7 @@ A [power of attorney (POA)](definitions.html) exists when an individual authoriz
 Powers of attorney usually cover two areas of decision-making: decisions about property (CPP & OAS benefits are considered property) and decisions about personal care.  
 
 ## General Provisions of a Power of Attorney  
-Third party administration is legislated provincially and is unique to each province or territory. As such, all third party instruments must meet the legislated standards of the issuing province or territory to be considered valid. Refer to [EXTERNAL LINK TO LEGISLATION] for a list of provincial statutes and legislation.  
+[Third party](definitions.html) administration is legislated provincially and is unique to each province or territory. As such, all third party instruments must meet the legislated standards of the issuing province or territory to be considered valid. Refer to [EXTERNAL LINK TO LEGISLATION] for a list of provincial statutes and legislation.  
 Authorizing instruments issued in one province are acceptable by another province, provided that the instrument meets the requirements of the latter.  
 Valid proof of a POA contains each of the following elements (note that the content and format of a POA will vary depending on the province or territory):  
 •	a title that describes the contents  
